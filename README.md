@@ -1,6 +1,6 @@
 # GT7 Track Bot
 
-A tiny Discord bot with one slash command, `/track`, that picks a random
+A tiny Discord bot with several slash commands, `/track`, that picks a random
 Gran Turismo 7 track. Any track it picks goes on a 24-hour cooldown so you
 won't get repeats — everything else stays in the pool.
 
